@@ -43,7 +43,8 @@ All sheets were combined into a cohesive, interactive Tableau dashboard for easy
 
 **Dataset:** Netflix Movies and TV Shows (Kagle "netflix_titles_nov_2019.csv"),
 
-**Excel/CSV:** Data preprocessing
+**Excel/CSV:** Data preprocessing, 
+
 **Netflix logo** : Image from google
 # Key Takeaways
 1. Netflix content has grown significantly year-over-year.
