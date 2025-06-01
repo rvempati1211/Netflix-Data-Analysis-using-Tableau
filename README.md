@@ -39,10 +39,12 @@ All sheets were combined into a cohesive, interactive Tableau dashboard for easy
 ![image](https://github.com/user-attachments/assets/c608925f-63fa-4b74-9aa6-d793971bcbd1)
 
 # Tools Used
-**Tableau:** For data visualization and dashboard creation
-**Dataset:** Netflix Movies and TV Shows (blob:https://github.com/432d96cc-a245-4187-bbf7-7de224268b6b)
-**Excel/CSV:** Data preprocessing
+**Tableau:** For data visualization and dashboard creation,
 
+**Dataset:** Netflix Movies and TV Shows (Kagle "netflix_titles_nov_2019.csv"),
+
+**Excel/CSV:** Data preprocessing
+**Netflix logo** : Image from google
 # Key Takeaways
 1. Netflix content has grown significantly year-over-year.
 2. The U.S. leads in content contribution, but international content is expanding.
